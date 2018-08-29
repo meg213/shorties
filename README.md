@@ -1,1 +1,1 @@
-# cs234048A
+# cs2340 48A Shorties
